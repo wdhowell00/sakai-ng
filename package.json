@@ -1,5 +1,5 @@
 {
-    "name": "sakai-ng",
+    "name": "zvt-test-tool",
     "version": "19.0.1",
     "scripts": {
         "ng": "ng",
